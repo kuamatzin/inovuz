@@ -17,7 +17,7 @@
     <!--Bootstrap 3.3.2-->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <!--Icon Fonts-->
-    <link href="css/font-awesome.min.css" rel="stylesheet" media="screen">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" media="screen">
     <link href="css/icon-moon.css" rel="stylesheet" media="screen">
     <!--Animations-->
     <link href="css/animate.css" rel="stylesheet" media="screen">
@@ -85,15 +85,15 @@
         <nav class="main-navi">
             <ul>
             <li class="active"><a class="scroll-up" href="#">Home</a></li>
-            <li><a class="scroll" href="#features">Servicios<i class="fa fa-caret-down"></i></a>
+            <li><a class="scroll" href="#features">Servicios</a>
             </li>
-            <li><a class="scroll" href="#clients">Nuestros Clientes<i class="fa fa-caret-down"></i></a>
+            <li><a class="scroll" href="#clients">Nuestros Clientes</a>
             </li>
-            <li><a class="scroll" href="#pricing">Precios<i class="fa fa-caret-down"></i></a>
+            <li><a class="scroll" href="#pricing">Precios</a>
             </li>
-            <li><a class="scroll" href="#team">Nuestro Equipo<i class="fa fa-caret-down"></i></a>
+            <li><a class="scroll" href="#team">Nuestro Equipo</a>
             </li>
-            <li><a class="scroll" href="#contacts">Contacto<i class="fa fa-caret-down"></i></a>
+            <li><a class="scroll" href="#contacts">Contacto</a>
             </li>
           </ul>
         </nav>
@@ -1021,7 +1021,7 @@
     </footer>
     
     <!--Scroll To Top Button-->
-    <div id="scroll-top" class="scroll-up"><i class="icon-arrow-up"></i></div>
+    <div id="scroll-top" class="scroll-up"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
     
     <!--Javascript (jQuery) Libraries and Plugins-->
     <script src="js/libs/jquery-1.11.2.min.js"></script>
