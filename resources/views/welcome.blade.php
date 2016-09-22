@@ -557,7 +557,7 @@
             <ul class="nav nav-tabs central">
               <li class="active"><a href="#clean-code" data-toggle="tab">Páginas Web</a></li>
               <li><a href="#font-icons" data-toggle="tab">Marketing Digital</a></li>
-              <li><a href="#more" data-toggle="tab">Otros</a></li>
+              <!--<li><a href="#more" data-toggle="tab">Otros</a></li>-->
             </ul>
           </div>
         </div>
