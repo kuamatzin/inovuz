@@ -74,7 +74,7 @@
         </a>
         <!-- <a class="logo-mobile" href="index.html"><img src="img/logo-mobile.png" alt="Inovuz"/></a> -->
         <div class="navi-toggle group">
-            <span class="dot"></span><span class="line"></span>
+          <span class="dot"></span><span class="line"></span>
           <span class="dot"></span><span class="line"></span>
           <span class="dot"></span><span class="line"></span>
           <span class="dot"></span><span class="line"></span>
@@ -109,15 +109,15 @@
           <div class="hero-slider">
             <div class="slide first-slide">
               <div class="col-lg-5 col-md-5 col-sm-5 animated">
-                <h2 style="margin-top:50px;" class="text-light text-left">Components &amp; Styles</h2>
-                <p>Check Ultima Components &amp; Styles page for more features and components.</p>
-                <p>Wish to extend your landing page? We offer you simple copy and paste solution with new Components &amp; Styles page.</p>
-                <a class="btn btn-primary" href="cs-page.html">Go to Components &amp; Styles</a>
+                <h2 style="margin-top:50px;" class="text-light text-left">Integra tu negocio al mundo digital</h2>
+                <p>Llega a nuevos y potenciales clientes integrandote al mundo digital.</p>
+                <p>Diseñamos y construimos páginas web, aplicaciones móviles, marketing digital que haran que tu negocio llegue a nuevas fronteras</p>
               </div>
               <div class="col-lg-7 col-md-7 col-sm-7 animated">
-                <img class="pull-right" src="img/hero-slider/imac.png" width="689" height="659" alt="Components and Styles"/>
+                <img class="pull-right" src="img/hero-slider/pub1.png" width="689" height="659" alt="Components and Styles"/>
               </div>
             </div>
+            <!--
             <div class="slide">
               <div class="col-lg-5 col-md-5 col-sm-5 animated fadeInUp">
                 <h2 style="margin-top:50px;" class="text-light text-left">Coming Soon Page</h2>
@@ -130,6 +130,8 @@
                 <img class="iphone" src="img/hero-slider/iphone.png" width="649" height="400" alt="Coming Soon Page"/>
               </div>
             </div>
+            -->
+            <!--
             <div class="slide">
               <div class="col-lg-4 col-md-4 col-sm-4 animated fadeInDown">
                 <h2 style="margin-top:70px;" class="text-light text-left">Some Heading</h2>
@@ -146,6 +148,7 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
         </div><!--Close Hero Slider-->
       </div>        
@@ -160,34 +163,24 @@
         </div>
         <div class="row features">
           <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="feature-img"><img src="img/features/feature1.png" width="124" height="120" alt="Editable colors"/></div>
-            <h3>Web Services</h3>
-            <p>Intégrate a la comunidad web y haz que tu negocio de el salto a la era digital. Haga que su negocio esté disponible las 25 horas del día. Además reduzca los costos operativos de su empresa.</p>
+            <div class="feature-img"><img src="img/features/1.svg" width="124" height="120" alt="Editable colors"/></div>
+            <h3>Servicios de TI</h3>
+            <p style="font-size: 17px">Contamos con un equipo de programadores expertos en desarrollo de aplicaciones web y móviles, hechas a la medida para que su negocio o idea crezca. ¿Páginas Web, Aplicaciones Móviles, Sitemas de control de nómina, inventariado o contable?. No se preocupe nosotros lo hacemos, usted enfóquese en su negocio</p>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="feature-img"><img src="img/features/feature2.png" width="131" height="131" alt="All you need for start"/></div>
+            <div class="feature-img"><img src="img/features/2.svg" width="131" height="131" alt="All you need for start"/></div>
             <h3>Marketing Digital</h3>
-            <p>Diseñamos estrategias y administramos campañas de Email Martketing, SEO (Optimización para motores de búsquedas y posicionamiento en buscadores), Search and Social Ads (campañas en Adwords, Facebook, LinkedIn).</p>
+            <p style="font-size: 17px">El objetivo de Inovuz es crear estrategias enfocadas en Marketing Digital donde nuestros clientes tengan la oportunidad de posicionarse dentro del mercado global. Nuestra experiencia en  Social Media, Comunity manager, SEO, Mailing, analítica digital y Publicidad on-line son herramientas que nos permiten dar atención personalizada a cada uno de nuestro clientes.</p>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="feature-img"><img src="img/features/feature3.png" width="72" height="72" alt="Clean code"/></div>
-            <h3>Clean code</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo.</p>
+            <div class="feature-img"><img src="img/features/3.svg" width="72" height="72" alt="Clean code"/></div>
+            <h3>Videovigilancia</h3>
+            <p style="font-size: 17px">Los mejores Sistemas de monitorio en el mercado y con gran variedad de opciones para todo tipo de ambientes que le permiten proteger a los suyos, como a su casa y  oficina.</p>
           </div>
         </div>
       </div>
-      <!--Tabs-->
-      <div class="container-fluid">
-        <div class="row">
-          <!-- Nav tabs -->
-          <ul class="nav nav-tabs central">
-            <li class="active"><a href="#clean-code" data-toggle="tab">Clean Code</a></li>
-            <li><a href="#font-icons" data-toggle="tab">Font Icons</a></li>
-            <li><a href="#more" data-toggle="tab">More</a></li>
-          </ul>
-        </div>
-      </div>
-      <!-- Tab panes -->
+
+      <!--
       <div class="container">
         <div class="row tab-content central">
           <div class="tab-pane fade in active col-lg-12" id="clean-code">
@@ -287,7 +280,7 @@
         </div>
       </div>
     </section>
-    
+    -->
     <!--Charts-->
     <!--
     <section class="page-block less-space-bottom" id="charts">
@@ -337,8 +330,8 @@
           </div>
         </div>
       </div>
-    </section>
     -->
+    </section>
     <!--Gallery-->
     <section class="page-block" id="clients">
         <div class="container">
@@ -349,51 +342,51 @@
         <div class="row">
           <ul class="gallery">
             <li>
-              <a href="#" data-largesrc="img/gallery/1.jpg" data-title="City Center" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_1.png" alt="thumb01"/>
-                <span class="img-caption">City Center</span>
+              <a href="https://winu.mx" target="_blank" data-largesrc="img/gallery/winu.png" data-title="WINU" data-description="WINU es una plataforma comunitaria que facilita la solución de problemas a través de un intercambio de conocimientos de manera inmediata y remota.">
+                <img src="img/gallery/winu.png" alt="thumb01"/>
+                <span class="img-caption">Winu</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/2.jpg" data-title="Beach Van" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_2.png" alt="thumb02"/>
-                <span class="img-caption">Beach Van</span>
+              <a href="http://www.climayconfort.com" target="_blank" data-largesrc="img/gallery/clima.png" data-title="Clima y Confort" data-description="Clima & Confort es una empresa comprometida con la calidad y el buen trato, dedicada al mantenimiento e instalación de equipos de refrigeración y aire acondicionado. También elaboramos e instalamos proyectos de extracción e inyección de aire, refrigeración y ductos.">
+                <img src="img/gallery/clima.png" alt="thumb02"/>
+                <span class="img-caption">Clima y Confort</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/3.jpg" data-title="Tea Pot" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_3.png" alt="thumb03"/>
-                <span class="img-caption">Tea Pot</span>
+              <a href="http://www.herramientascela.com" target="_blank" data-largesrc="img/gallery/herramientas.png" data-title="Herramientas Cela" data-description="HERRAMIENTAS CELA, es una empresa 100% mexicana, fundada en 1990. Se inicio como fabricante de herramientas, mas poco tiempo después se introdujo en la fabricación de maquinaria para madera, destacándose en este ultimo como una empresa innovadora a nivel nacional.">
+                <img src="img/gallery/herramientas.png" alt="thumb02"/>
+                <span class="img-caption">Herramientas Cela</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/4.jpg" data-title="Railway Station" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_4.png" alt="thumb04"/>
-                <span class="img-caption">Railway Station</span>
+              <a href="http://tlaxcala.reqsiaa.com" target="_blank" data-largesrc="img/gallery/siaa.png" data-title="SIAA" data-description="Sistema Integral de Administración de Adquisiciones para el Gobierno del Estado de Tlaxcala">
+                <img src="img/gallery/siaa.png" alt="thumb04"/>
+                <span class="img-caption">SIAA</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/5.jpg" data-title="City Center" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_5.png" alt="thumb05"/>
-                <span class="img-caption">City Center</span>
+              <a href="http://www.metropolitandiario.com" target="_blank" data-largesrc="img/gallery/metropolitan.png" data-title="Metropolitan Diario" data-description="Las noticias mas relevantes y de interés a nivel mundial. El mejor contenido en Metropolitan Diario, TV, News y Metropolitan Radio.">
+                <img src="img/gallery/metropolitan.png" alt="thumb05"/>
+                <span class="img-caption">Metropolitan Diario</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/6.jpg" data-title="Bicycle Parking" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_6.png" alt="thumb06"/>
-                <span class="img-caption">Bicycle Parking</span>
+              <a href="http://comparahora.com" target="_blank" data-largesrc="img/gallery/compara.png" data-title="Comparahora" data-description="Comparahora.com: El comparador gratuito No.1 en México que te permite tomar mejores decisiones, ahorrando tiempo y dinero a la hora de contratar alguno de los servicios. ">
+                <img src="img/gallery/compara.png" alt="thumb06"/>
+                <span class="img-caption">Comparahora</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/7.jpg" data-title="London Boat" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_7.png" alt="thumb07"/>
-                <span class="img-caption">London Boat</span>
+              <a href="#" data-largesrc="img/gallery/bremen.png" data-title="Bremen" data-description="Grupo Bremen Consultores S.C. es una firma que brinda a sus clientes un servicio profesional-integral y personalizado, en donde se busca encontrar las soluciones óptimas a sus necesidades, con la máxima eficiencia, en tiempo y respuesta inmediata.">
+                <img src="img/gallery/bremen.png" alt="thumb07"/>
+                <span class="img-caption">Bremen</span>
               </a>
             </li>
             <li>
-              <a href="#" data-largesrc="img/gallery/8.jpg" data-title="Apple Air" data-description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
-                <img src="img/gallery/th_8.png" alt="thumb08"/>
-                <span class="img-caption">Apple Air</span>
+              <a href="#" data-largesrc="img/gallery/bondzuweb.png" data-title="Bondzu" data-description="Bondzù es una iniciativa de educación y concientización utilizando los nuevos medios de comunicación que permite internet. Hace uso intensivo de las redes sociales, aplicaciones para teléfonos inteligentes y páginas web.">
+                <img src="img/gallery/bondzu.png" alt="thumb08"/>
+                <span class="img-caption">Bondzu</span>
               </a>
             </li>
           </ul>
@@ -779,8 +772,7 @@
     <section class="page-block color" id="testimonials">
         <div class="container">
         <div class="row page-header">
-          <h2 class="text-light">Testimonials</h2>
-          <span class="text-light">Subtext for header</span>
+          <h2 class="text-light">Testimonios</h2>
         </div>
         <div class="row">
           <div id="testimonials-slider" class="testimonials-slider carousel slide" data-ride="carousel">
@@ -800,8 +792,8 @@
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-8">
                       <blockquote>
-                        <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                        <footer class="text-light">Carl</footer>
+                        <p class="text-light">Necesitaba llevar mi negocio al comercio en línea, en iNovuz me dieron las herramientas necesarias.</p>
+                        <footer class="text-light">Lujac Pets</footer>
                       </blockquote>
                     </div>
                   </div>
@@ -815,8 +807,8 @@
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-8">
                       <blockquote>
-                        <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                        <footer class="text-light">Richard Roe</footer>
+                        <p class="text-light">Me brindaron la asesoría y servicios profesionales para atender el mercado que mi producto iba dirigido.</p>
+                        <footer class="text-light">Corporativo Ferreterías del Sur</footer>
                       </blockquote>
                     </div>
                   </div>
@@ -830,8 +822,8 @@
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-8">
                       <blockquote>
-                        <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                        <footer class="text-light">Jonathan Doe</footer>
+                        <p class="text-light">Emprendedores que les apasiona lo que hacen y tienen la experiencia para lograrlo.</p>
+                        <footer class="text-light">Bremen</footer>
                       </blockquote>
                     </div>
                   </div>
@@ -912,8 +904,8 @@
             </div>
           </div>
             <div class="col-lg-4 col-md-4 col-sm-4">
-            <img class="img-circle-thumbnail img-center" height="360px" src="https://scontent.fpbc1-2.fna.fbcdn.net/v/t1.0-9/12650887_10208314749970242_3964168524822679243_n.jpg?oh=b2a4c94dcf77385802d936fbd98db59b&amp;oe=5886125D" alt="Denisse Herrera"/>
-            <h3>Denisse Herrera</h3>
+            <img class="img-circle-thumbnail img-center" height="360px" src="img/team/den.png" alt="Denisse Herrera"/>
+            <h3>Denisse Cuamatzin</h3>
             <p>Art director</p>
             <div class="social-networks">
               <a class="icon-youtube tooltipped" href="#" title="Youtube"></a>
@@ -932,23 +924,7 @@
           <h2>Contacto</h2>
           <span>¿Tienes una pregunta?</span>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-4">
-            <div class="row space-bottom">
-                <div class="col-lg-9 col-md-9">
-                <h3>What we do</h3>
-              </div>
-                <div class="col-lg-3 col-md-3">
-                <img class="img-center" src="img/contacts/man.png" alt="About Us"/>
-              </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-lg-offset-1">
+          <div class="col-lg-4 col-md-4 col-lg-offset-2">
             <div class="row space-bottom">
                 <div class="col-lg-8 col-md-8">
                 <h3>¿Dónde estamos?</h3>
@@ -959,12 +935,12 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                <p>4120 Lenox Avenue, New York, NY, 10035 76 Saint Nicholas Avenue</p>
+                <p>Avenida 15 poniente 3701, Colonia La Paz. Puebla, Puebla.</p> 
               </div>
             </div>
             <div class="row space-bottom">
                 <div class="col-lg-8 col-md-8">
-                <h3>Contacts</h3>
+                <h3>Contactos</h3>
               </div>
                 <div class="col-lg-4 col-md-4">
                 <img class="img-center" src="img/contacts/phone.png" alt="Contacts"/>
@@ -1010,28 +986,7 @@
         </div>
       </div>
     </section>
-    
-    <!--Social Networks-->
-    <section class="page-block" id="social">
-        <div class="container">
-        <div class="row page-header">
-          <h2>Find us on social networks</h2>
-          <span>Subtext for header</span>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="social-networks">
-              <a class="icon-facebook tooltipped" href="#" title="Facebook"></a>
-              <a class="icon-instagram tooltipped" href="#" title="Instagram"></a>
-              <a class="icon-twitter tooltipped" href="#" title="Twitter"></a>
-              <a class="icon-google-plus tooltipped" href="#" title="Google+"></a>
-              <a class="icon-youtube tooltipped" href="#" title="Youtube"></a>
-              <a class="icon-tumblr tooltipped" href="#" title="Tumblr"></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+  
     
     <!--Footer-->
     <footer class="footer">
