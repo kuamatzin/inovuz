@@ -283,14 +283,12 @@
                 <span class="img-caption">Bremen</span>
               </a>
             </li>
-            <!--
             <li>
               <a href="#" data-largesrc="img/gallery/bondzuweb.png" data-title="Bondzu" data-description="Bondzù es una iniciativa de educación y concientización utilizando los nuevos medios de comunicación que permite internet. Hace uso intensivo de las redes sociales, aplicaciones para teléfonos inteligentes y páginas web.">
                 <img src="img/gallery/bondzu.png" alt="thumb08"/>
                 <span class="img-caption">Bondzu</span>
               </a>
             </li>
-            -->
           </ul>
         </div>
       </div>
