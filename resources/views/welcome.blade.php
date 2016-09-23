@@ -937,29 +937,17 @@
     <div class="col-lg-4 col-md-4 col-sm-4">
       <img class="img-circle-thumbnail img-center" src="https://scontent.fpbc1-2.fna.fbcdn.net/t31.0-8/11021352_10152730383752817_4801429228100075459_o.jpg" alt="Carlos Cuamatzin"/>
       <h3>Carlos Cuamatzin</h3>
-      <p>Software Developer</p>
-      <div class="social-networks">
-        <a class="icon-facebook tooltipped" href="#" title="Facebook"></a>
-        <a class="icon-instagram tooltipped" href="#" title="Instagram"></a>
-      </div>
+      <p>Director de Desarrollo Tecnológico</p>
     </div>
     <div class="col-lg-4 col-md-4 col-sm-4">
       <img class="img-circle-thumbnail img-center" src="https://scontent.fpbc1-2.fna.fbcdn.net/v/t1.0-9/1236631_10151792177409463_1528297109_n.jpg?oh=40ee2f526f71bb1c0935bfca9140d975&amp;oe=5883A4CA" alt="Issac Martínez"/>
       <h3>Issac Martínez</h3>
-      <p>Project Manager</p>
-      <div class="social-networks">
-        <a class="icon-twitter tooltipped" href="#" title="Twitter"></a>
-        <a class="icon-google-plus tooltipped" href="#" title="Google+"></a>
-      </div>
+      <p>Director de Proyectos</p>
     </div>
     <div class="col-lg-4 col-md-4 col-sm-4">
       <img class="img-circle-thumbnail img-center" height="360px" src="img/team/den.png" alt="Denisse Herrera"/>
       <h3>Denisse Cuamatzin</h3>
-      <p>Art director</p>
-      <div class="social-networks">
-        <a class="icon-youtube tooltipped" href="#" title="Youtube"></a>
-        <a class="icon-tumblr tooltipped" href="#" title="Tumblr"></a>
-      </div>
+      <p>Directora de Marketing</p>
     </div>
   </div>
 </div>
