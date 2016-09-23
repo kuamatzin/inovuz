@@ -108,7 +108,7 @@
         <div class="slide first-slide">
           <div class="col-lg-5 col-md-5 col-sm-5 animated">
             <h2 style="margin-top:50px;" class="text-light text-left">Integra tu negocio al mundo digital</h2>
-            <p>Llega a nuevos y potenciales clientes integrandote al mundo digital.</p>
+            <p>Llega a nuevos y potenciales clientes integrándote al mundo digital.</p>
             <p>Diseñamos y construimos páginas web, aplicaciones móviles, marketing digital que haran que tu negocio llegue a nuevas fronteras</p>
           </div>
           <div class="col-lg-7 col-md-7 col-sm-7 animated">
@@ -762,7 +762,7 @@
           <label class="sr-only" for="message">Message</label>
           <textarea class="form-control" name="message" id="message" rows="5" placeholder="Mensaje"></textarea>
         </div>
-        <button type="submit" class="btn btn-primary">Enviar</button>
+        <button type="button" class="btn btn-primary" id="enviarMensaje">Enviar</button>
         <!-- Validation Response -->
         <div class="response-holder"></div>
       </form>
@@ -811,5 +811,31 @@
 <script src="js/plugins/smoothscroll.js"></script>
 <script src="js/plugins/color-switcher.js"></script>
 <script src="js/landing2.js"></script>
+<script>
+  $('#enviarMensaje').click(function(event) {
+    var nombre = $('#name1').val();
+    var email = $('#email1').val();
+    var mensaje = $('#message').val();
+    if(nombre != '' && email != '' && mensaje != ''){
+      $.ajax({
+        url: '/email/' + nombre + '/' + email + '/' + mensaje,
+        type: 'GET'
+      })
+      .done(function() {
+        console.log("success");
+      })
+      .fail(function() {
+        console.log("error");
+      })
+      .always(function() {
+        console.log("complete");
+      });
+      
+    }
+    else {
+      alert("Todos los campos son requeridos")
+    }
+  });
+</script>
 </body><!--Close Body-->
 </html>
