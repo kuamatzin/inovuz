@@ -237,7 +237,7 @@
       <div class="container">
         <div class="row page-header">
           <h2>Nuestros Clientes</h2>
-          <span>Conoce nuestros últimos proyectos</span>
+          <span>Conoce nuestros últimos proyectos y colaboraciones</span>
         </div>
         <div class="row">
           <ul class="gallery">
@@ -283,12 +283,14 @@
                 <span class="img-caption">Bremen</span>
               </a>
             </li>
+            <!--
             <li>
               <a href="#" data-largesrc="img/gallery/bondzuweb.png" data-title="Bondzu" data-description="Bondzù es una iniciativa de educación y concientización utilizando los nuevos medios de comunicación que permite internet. Hace uso intensivo de las redes sociales, aplicaciones para teléfonos inteligentes y páginas web.">
                 <img src="img/gallery/bondzu.png" alt="thumb08"/>
                 <span class="img-caption">Bondzu</span>
               </a>
             </li>
+            -->
           </ul>
         </div>
       </div>
@@ -588,7 +590,7 @@
                 <div class="container">
                   <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-4">
-                      <img class="img-circle img-center" src="img/testimonials/dirk.png" width="192" height="192" alt="Dexter Dirk"/>
+                      <img class="img-circle img-center" src="img/testimonials/andy.png" width="192" height="192" alt="Dexter Dirk"/>
                     </div>
                     <div class="col-lg-9 col-md-9 col-sm-8">
                       <blockquote>
@@ -603,7 +605,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-lg-3 col-md-3 col-sm-4">
-                    <img class="img-circle img-center" src="img/testimonials/roe.png" width="192" height="192" alt="Richard Roe"/>
+                    <img class="img-circle img-center" src="img/testimonials/tules.png" width="192" height="192" alt="Richard Roe"/>
                   </div>
                   <div class="col-lg-9 col-md-9 col-sm-8">
                     <blockquote>
@@ -618,7 +620,7 @@
             <div class="container">
               <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-4">
-                  <img class="img-circle img-center" src="img/testimonials/doe.png" width="192" height="192" alt="Jonathan Doe"/>
+                  <img class="img-circle img-center" src="img/testimonials/oso.png" width="192" height="192" alt="Jonathan Doe"/>
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-8">
                   <blockquote>
@@ -823,6 +825,7 @@
       })
       .done(function() {
         console.log("success");
+        alert("Gracias, en breve nos ponemos en contacto contigo")
       })
       .fail(function() {
         console.log("error");
