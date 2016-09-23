@@ -27,11 +27,6 @@
     <link class="color-scheme" href="css/colors/color-default.css" rel="stylesheet" media="screen">
     <!--Modernizr-->
     <script src="js/libs/modernizr.custom.js"></script>
-    <!--Adding Media Queries and Canvas Support for IE8-->
-    <!--[if lt IE 9]>
-    <script src="js/plugins/respond.min.js"></script>
-    <script src="js/plugins/excanvas.js"></script>
-    <![endif]-->
   </head>
   <!--Body-->
   <body class="space-top">
