@@ -9,16 +9,12 @@
     <meta name="keywords" content="paginas web, desarrollo web, aplicaciones, apps, marketing digital, videovigilancia" />
     <meta name="author" content="Inovuz" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <!--Favicon-->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <!--Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700' rel='stylesheet' type='text/css'>
     <!--Bootstrap 3.3.2-->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <!--Icon Fonts-->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" media="screen">
-    <link href="css/icon-moon.css" rel="stylesheet" media="screen">
     <!--Animations-->
     <link href="css/animate.css" rel="stylesheet" media="screen">
     <!--Theme Styles-->
@@ -799,17 +795,10 @@
 <script src="js/libs/jquery-1.11.2.min.js"></script>
 <script src="js/libs/jquery.easing.1.3.js"></script>
 <script src="js/plugins/bootstrap.min.js"></script>
-<script src="js/plugins/jquery.touchSwipe.min.js"></script>
-<script src="js/plugins/jquery.placeholder.js"></script>
-<script src="js/plugins/icheck.min.js"></script>
-<script src="js/plugins/jquery.validate.min.js"></script>
 <script src="js/plugins/gallery.js"></script>
 <script src="js/plugins/jquery.fitvids.js"></script>
 <script src="js/plugins/jquery.bxslider.min.js"></script>
-<script src="js/plugins/chart.js"></script>
 <script src="js/plugins/waypoints.min.js"></script>
-<script src="js/plugins/smoothscroll.js"></script>
-<script src="js/plugins/color-switcher.js"></script>
 <script src="js/landing2.js"></script>
 <script>
   $('#enviarMensaje').click(function(event) {
