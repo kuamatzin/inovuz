@@ -377,7 +377,7 @@
               <br><br>
               <div class="row">
                 <div class="col-md-4 col-md-offset-4">
-                  <h3 class="text-center">¿Necesitas mas?</h3>
+                  <h3 class="text-center">¿Necesitas más?</h3>
                   <h4 class="text-center">Desarrollamos proyectos a la medida</h4>
                   <h3 class="text-center">¡Contáctanos!</h3>
                 </div>
@@ -469,7 +469,7 @@
               </div>
               <div class="row">
                 <div class="col-md-4 col-md-offset-4">
-                  <h3 class="text-center">¿Necesitas mas?</h3>
+                  <h3 class="text-center">¿Necesitas más?</h3>
                   <h4 class="text-center">Desarrollamos proyectos a la medida</h4>
                   <h3 class="text-center">¡Contáctanos!</h3>
                 </div>
