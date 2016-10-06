@@ -65,7 +65,7 @@
               <!--
               <a class="logo" href="index.html"><img src="img/logo-dark.png" alt="Inovuz"/></a>-->
               <a href="#" class="logo">
-                <h1>Inovuz</h1>
+                <img src="inovuz.png" width="150px" class="img-responsive">
               </a>
               <!-- <a class="logo-mobile" href="index.html"><img src="img/logo-mobile.png" alt="Inovuz"/></a> -->
               <div class="navi-toggle group">
