@@ -238,12 +238,6 @@
         <div class="row">
           <ul class="gallery">
             <li>
-              <a href="https://winu.mx" target="_blank" data-largesrc="img/gallery/winu.png" data-title="WINU" data-description="WINU es una plataforma comunitaria que facilita la solución de problemas a través de un intercambio de conocimientos de manera inmediata y remota.">
-                <img src="img/gallery/winu.png" alt="thumb01"/>
-                <span class="img-caption">Winu</span>
-              </a>
-            </li>
-            <li>
               <a href="http://www.climayconfort.com" target="_blank" data-largesrc="img/gallery/clima.png" data-title="Clima y Confort" data-description="Clima & Confort es una empresa comprometida con la calidad y el buen trato, dedicada al mantenimiento e instalación de equipos de refrigeración y aire acondicionado. También elaboramos e instalamos proyectos de extracción e inyección de aire, refrigeración y ductos.">
                 <img src="img/gallery/clima.png" alt="thumb02"/>
                 <span class="img-caption">Clima y Confort</span>
@@ -277,12 +271,6 @@
               <a href="#" data-largesrc="img/gallery/bremen.png" data-title="Bremen" data-description="Grupo Bremen Consultores S.C. es una firma que brinda a sus clientes un servicio profesional-integral y personalizado, en donde se busca encontrar las soluciones óptimas a sus necesidades, con la máxima eficiencia, en tiempo y respuesta inmediata.">
                 <img src="img/gallery/bremen.png" alt="thumb07"/>
                 <span class="img-caption">Bremen</span>
-              </a>
-            </li>
-            <li>
-              <a href="#" data-largesrc="img/gallery/bondzuweb.png" data-title="Bondzu" data-description="Bondzù es una iniciativa de educación y concientización utilizando los nuevos medios de comunicación que permite internet. Hace uso intensivo de las redes sociales, aplicaciones para teléfonos inteligentes y páginas web.">
-                <img src="img/gallery/bondzu.png" alt="thumb08"/>
-                <span class="img-caption">Bondzu</span>
               </a>
             </li>
           </ul>
