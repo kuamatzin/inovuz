@@ -108,7 +108,7 @@
             <p>Diseñamos y construimos páginas web, aplicaciones móviles, marketing digital que haran que tu negocio llegue a nuevas fronteras</p>
           </div>
           <div class="col-lg-7 col-md-7 col-sm-7 animated">
-            <img class="pull-right" src="img/hero-slider/pub1.png" width="689" height="659" alt="Components and Styles"/>
+            <img class="pull-right" src="img/hero-slider/inovuz1.jpg" width="689" height="659" alt="Components and Styles"/>
           </div>
         </div>
         <!--
